@@ -15,3 +15,7 @@ Requisitos: PHP 8.2+ (extensiones sqlite3, mbstring, xml, posix), Composer, Linu
 
 ENLACE WEB:
 https://www.sysmonitorwebumg.com/
+
+ACCESOS DEFAULT (PRUEBA):
+User: admin
+Pass: admin
