@@ -12,3 +12,6 @@ Requisitos: PHP 8.2+ (extensiones sqlite3, mbstring, xml, posix), Composer, Linu
     touch database/database.sqlite
     php artisan migrate --seed     # muestra usuario/contraseña de admin y observador
     php artisan serve --host=0.0.0.0 --port=8000
+
+ENLACE WEB:
+https://www.sysmonitorwebumg.com/
